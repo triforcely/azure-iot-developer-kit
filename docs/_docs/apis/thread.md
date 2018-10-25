@@ -5,7 +5,7 @@ excerpt: "Library for Thread on AZ3166"
 last_modified_at: 2018-01-08T05:16:34-04:00
 ---
 
-The Thread class, provides by the underlining mbed OS, is used for defining, creating and controlling parallel tasks.
+The Thread class, provided by the underlying Mbed OS, is used for defining, creating and controlling parallel tasks.
 For more information and APIs about Thread, please visit [MbedOS](https://os.mbed.com/docs/v5.6/mbed-os-api-doxy/classrtos_1_1_thread.html){:target="_blank"}.
 
 ## Assembly

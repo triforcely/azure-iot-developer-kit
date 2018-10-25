@@ -5,7 +5,7 @@ excerpt: "Library for Mutex on AZ3166"
 last_modified_at: 2018-01-09T05:16:34-04:00
 ---
 
-The Mutex class, provides by the underlining mbed OS, is used to synchronize the execution of threads and  protect the access to a shared resource.
+The Mutex class, provided by the underlying Mbed OS, is used to synchronize the execution of threads and  protect the access to a shared resource.
 For more information about Mutex, please visit [MbedOS](https://os.mbed.com/docs/v5.6/reference/mutex.html){:target="_blank"}
 
 ## Assembly

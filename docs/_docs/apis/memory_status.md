@@ -5,7 +5,7 @@ excerpt: "Library for tracing memory status on AZ3166"
 last_modified_at: 2018-03-14T05:16:34-04:00
 ---
 
-The runtime statistics APIs, provides by the underlining mbed OS, is used to print global heap locations, sizes, and utilization at runtime. It is very useful for tracking down total runtime memory usage. For more information and APIs about memory status, please visit [MbedOS](https://os.mbed.com/docs/v5.7/reference/memorystats.html){:target="_blank"}.
+The runtime statistics APIs, provided by the underlying Mbed OS, is used to print global heap locations, sizes, and utilization at runtime. It is very useful for tracking down total runtime memory usage. For more information and APIs about memory status, please visit [MbedOS](https://os.mbed.com/docs/v5.7/reference/memorystats.html){:target="_blank"}.
 
 ## Assembly
 

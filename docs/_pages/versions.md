@@ -410,7 +410,7 @@ After a month work of stabilizing the code, fixing bugs and adding more samples,
 
 ### Release Summary
 
-* Update underlying mbed OS to 5.4
+* Update underlying Mbed OS to 5.4
 
 * Show version number for the default app
 
